@@ -224,9 +224,9 @@ body {
 }
 .footers{
 	position: absolute;
-	top: 750px;
+	top: 770px;
 	margin-left: 80px;
 	font-size: 18px;
 	font-family: Nunito Sans;
-	font-style: normal;
+	font-style:italic;
 }
